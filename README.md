@@ -5,6 +5,7 @@ Objective:-
 This project aims to develop a machine learning-based system that predicts the risk of stroke in individuals based on various health and lifestyle parameters. This system aims to assist healthcare professionals in identifying high-risk patients and providing preventive care to reduce the incidence of strokes.
 
 Methodology:-
+
 -> Data Collection:
  - Health records from hospitals and medical institutions.
  - Publicly available datasets such as the Framingham Heart Study.
